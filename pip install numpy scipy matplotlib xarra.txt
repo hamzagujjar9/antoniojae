@@ -1,0 +1,3 @@
+ pip install numpy scipy matplotlib xarray netCDF4
+ 
+ 
